@@ -3,7 +3,8 @@
 **Team ID** : `C242-PS548`
 
 ## Overview
-StaySharp is an app designed to detect drowsiness and help prevent accidents caused by fatigue. Using advanced technology, it monitors eye movements, facial expressions, and other physical signs to assess your alertness in real time. The app sends timely alerts to help you stay focused and safe, whether you're driving, working, or handling important tasks. StaySharp makes it easy to stay productive and safe by addressing drowsiness before it becomes a risk.
+StaySharp is an app designed to detect drowsiness and help prevent accidents caused by fatigue. Using advanced technology, it monitors eye movements, facial expressions, and other physical signs to assess your alertness in real time. The app sends timely alerts to help you stay focused and safe. 
+StaySharp makes it easy to stay productive and safe by addressing drowsiness before it becomes a risk.
 
 ## Contributors
 
