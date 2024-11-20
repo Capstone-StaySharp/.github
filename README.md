@@ -8,12 +8,12 @@ StaySharp, designed to detect drowsiness and help prevent fatigue-related accide
 
 ## Contributors
 
-1. (ML) M172B4KY0488 – Anderson Usman – Universitas Mikroskil
-2. (ML) M172B4KY2120 – Justin Welly Panvito – Universitas Mikroskil
-3. (ML) M172B4KX1634 – Giovanny Halimko – Universitas Mikroskil
-4. (CC) C172B4KX4400 – Vania – Universitas Mikroskil
-5. (CC) C172B4KY3174 – Nabil Faturrahman – Universitas Mikroskil
-6. (MD) A172B4KY2475 – Mhd. Fauzan Aditya – Universitas Mikroskil
+1. (ML) M172B4KY0488 | **Anderson Usman** – Universitas Mikroskil  
+2. (ML) M172B4KY2120 | **Justin Welly Panvito** – Universitas Mikroskil  
+3. (ML) M172B4KX1634 | **Giovanny Halimko** – Universitas Mikroskil  
+4. (CC) C172B4KX4400 | **Vania** – Universitas Mikroskil  
+5. (CC) C172B4KY3174 | **Nabil Faturrahman** – Universitas Mikroskil  
+6. (MD) A172B4KY2475 | **Mhd. Fauzan Aditya** – Universitas Mikroskil
 
 ## App Screenshots
 TBA
