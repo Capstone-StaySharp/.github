@@ -16,7 +16,9 @@ StaySharp makes it easy to stay productive and safe by addressing drowsiness bef
 6. (MD) A172B4KY2475 | **Mhd. Fauzan Aditya** – Universitas Mikroskil
 
 ## App Screenshots
-<img src="/assets/01.jpeg" width=200 height=400> <img src="/assets/02.jpeg" width=200 height=400> <img src="/assets/03.jpeg" width=200 height=400>
+<img src="/assets/01.jpeg" width=200 height=400> <img src="/assets/02.jpeg" width=200 height=400> <img src="/assets/03.jpeg" width=200 height=400> <img src="/assets/04.jpeg" width=200 height=400>
 
-<img src="/assets/04.jpeg" width=200 height=400> <img src="/assets/05.jpeg" width=200 height=400> <img src="/assets/06.jpeg" width=200 height=400>
+ <img src="/assets/05.jpeg" width=200 height=400> <img src="/assets/06.jpeg" width=200 height=400>
+
+<img src="/assets/07.jpeg" width=200 height=400> <img src="/assets/08.jpeg" width=200 height=400>
 
